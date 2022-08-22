@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ian Turner's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/Ian-Turner4/ProgrammingPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
