@@ -27,3 +27,11 @@ OOP python application that calculates the surface area and volume of 3D shapes
 ![ShapeTester](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/shapetester.png?raw=true)
 
 [Source Code](https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/shapetester)
+
+### Pig Latin Translator
+
+Python application that translates English into pig latin
+
+![PigLatinTranslator](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/PlTranslator.PNG)
+
+[Source Code](https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/piglatintranslator)
