@@ -32,6 +32,6 @@ OOP python application that calculates the surface area and volume of 3D shapes
 
 Python application that translates English into pig latin
 
-![PigLatinTranslator](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/PlTranslator.PNG?raw=true)
+![PigLatinTranslator](https://raw.githubusercontent.com/Ian-Turner4/ProgrammingPortfolio/gh-pages/images/PlTranslator.PNG)
 
 [Source Code](https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/piglatintranslator)
