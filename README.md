@@ -5,7 +5,7 @@
 
 ## Spotlight: Alptraum von James
 
-Alptraum von James is an area shooter game made with Pygame. The player controls a boomerang to defeat their enemies.
+Alptraum von James is an area shooter game made with Pygame. The player controls a boomerang to defeat their enemies. Made by Ian Turner, Tomo Sato, Henry Miller, and Reid-Dzung Nguyen.
 
 ![alt text][screenshot]
 
