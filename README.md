@@ -11,4 +11,4 @@ Alptraum von James is an area shooter game made with Pygame. The player controls
 
 [screenshot]: https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/AltraumVonJames.png?raw=true "AltraumVonJames"
 
-(https://github.com/TomoCroissant/Crab "Click here for a link to the repository.")
+[Click here for a link to the repository](https://github.com/TomoCroissant/Crab "Alptraum von James")
