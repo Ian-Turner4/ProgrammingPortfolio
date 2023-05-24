@@ -63,4 +63,3 @@ A game for Mac and Windows made in Processing. Meant to vaguely emulate space.
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/spacegame.png?raw=true "Running Screenshot")
 
 [Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame "SpaceGame")
-![image](https://github.com/Ian-Turner4/ProgrammingPortfolio/assets/111790556/9a7f7e7d-9954-4d46-bcfe-26069e2625be)
