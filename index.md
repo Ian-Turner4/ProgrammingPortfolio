@@ -21,6 +21,8 @@ A graphical calculator made using OOP.
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/calc.png?raw=true "Running Screenshot")
 
+[Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/Calculator "Calculator")
+
 
 
 ## Pig Latin Translator
@@ -29,6 +31,7 @@ A command line application that translates English into Pig Latin.
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/PigLatinTranslator.png?raw=true "Running Screenshot")
 
+[Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/PigLatinTranslator "PigLatinTranslator")
 
 
 ## Screensaver
@@ -36,6 +39,9 @@ A command line application that translates English into Pig Latin.
 A functional screensasver for Mac and Windows, made in processing.
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/ScreenSaver.png?raw=true "Running Screenshot")
+
+[Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/Screensaver "Screensaver")
+
 
 
 
@@ -45,6 +51,9 @@ A command line app that determines the surface area and volume of several 3-dime
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/shapetester.png?raw=true "Running Screenshot")
 
+[Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/ShapeTester "ShapeTester")
+
+
 
 
 ## Space Game
@@ -52,4 +61,6 @@ A command line app that determines the surface area and volume of several 3-dime
 A game for Mac and Windows made in Processing. Meant to vaguely emulate space.
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/spacegame.png?raw=true "Running Screenshot")
-![image](https://github.com/Ian-Turner4/ProgrammingPortfolio/assets/111790556/ee73e7b3-57df-454b-9ad0-602c29da3249)
+
+[Click here for a link to the repository]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame "SpaceGame")
+![image](https://github.com/Ian-Turner4/ProgrammingPortfolio/assets/111790556/9a7f7e7d-9954-4d46-bcfe-26069e2625be)
