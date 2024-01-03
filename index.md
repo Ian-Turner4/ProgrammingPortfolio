@@ -48,14 +48,6 @@ A graphical calculator made using OOP.
 [Click here for a link to the source code]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/Calculator "Calculator")
 
 
-## Screensaver
-
-A functional screensasver for Mac and Windows, made in processing.
-
-![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/ScreenSaver.png?raw=true "Running Screenshot")
-
-[Click here for a link to the source code]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/Screensaver "Screensaver")
-
 
 
 
