@@ -9,7 +9,7 @@
 
 A 3D rendering application made with Pygame. Allows the user to observe shapes in 3D space using rotation and movement. Modular design allows virtually any shape to be implemented.
 
-[screenshot]: https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/3DRender.png "3DRender"
+[screenshot]: https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/3DRender.png?raw=true "3DRender"
 
 [Click here for a link to the source code](https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/3DRendering "3D Rendering")
 
@@ -17,7 +17,7 @@ A 3D rendering application made with Pygame. Allows the user to observe shapes i
 
 A proof-of-concept banking application that simulates bank accounts using inheritance and abstract classes. Calculates balance using taxes of various states.
 
-![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/BankingApp.png "Running Screenshot")
+![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/BankingApp.png?raw=true "Running Screenshot")
 
 [Click here for a link to the source code]( https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/BankingApp "Banking")
 
@@ -34,9 +34,8 @@ Alptraum von James is an area shooter game made with Pygame. The player controls
 ## Advanced Numeric Calculator
 
 An advanced calculator that uses recursion to calculate the recursive of a number, as well as finding specific Fibonacci numbers from a given index.
-![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/AdvancedNumeric.png "Running Screenshot")
 
-https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/AdvancedNumeric.png
+![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/AdvancedNumeric.png?raw=true "Running Screenshot")
 
 [Click here for a link to the source code]( (https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/AdvancedNumeric) "AdvancedNumeric")
 
