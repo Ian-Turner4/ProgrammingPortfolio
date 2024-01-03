@@ -9,7 +9,7 @@
 
 A 3D rendering application made with Pygame. Allows the user to observe shapes in 3D space using rotation and movement. Modular design allows virtually any shape to be implemented.
 
-[screenshot]: https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/3DRender.png?raw=true "3DRender"
+![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/3DRender.png?raw=true "Running Screenshot")
 
 [Click here for a link to the source code](https://github.com/Ian-Turner4/ProgrammingPortfolio/tree/gh-pages/src/3DRendering "3D Rendering")
 
@@ -33,7 +33,7 @@ Alptraum von James is an area shooter game made with Pygame. The player controls
 
 ## Advanced Numeric Calculator
 
-An advanced calculator that uses recursion to calculate the recursive of a number, as well as finding specific Fibonacci numbers from a given index.
+An advanced calculator that uses recursion to calculate the recursive of a number, as well as finding a specific Fibonacci number from a given index.
 
 ![Running Screenshot](https://github.com/Ian-Turner4/ProgrammingPortfolio/blob/gh-pages/images/AdvancedNumeric.png?raw=true "Running Screenshot")
 
